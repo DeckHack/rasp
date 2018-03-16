@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/pixeldesu/rasp/issues"
   },
-  "homepage": "https://github.com/pixeldesu/rasp#readme"
+  "homepage": "https://github.com/pixeldesu/rasp#readme",
+  "dependencies": {
+    "puppeteer": "^1.2.0"
+  }
 }
