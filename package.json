@@ -1,0 +1,28 @@
+{
+  "name": "rasp",
+  "version": "0.0.1",
+  "description": "Toolchain for work with TweetDeck",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pixeldesu/rasp.git"
+  },
+  "keywords": [
+    "headless",
+    "chrome",
+    "twitter",
+    "tweetdeck",
+    "scraping",
+    "linting",
+    "download"
+  ],
+  "author": "Andreas Nedbal <andy@pixelde.su>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pixeldesu/rasp/issues"
+  },
+  "homepage": "https://github.com/pixeldesu/rasp#readme"
+}
