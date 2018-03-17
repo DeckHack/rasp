@@ -27,7 +27,9 @@
   "homepage": "https://github.com/pixeldesu/rasp#readme",
   "dependencies": {
     "deep-diff": "^0.3.8",
+    "diff": "^3.5.0",
     "fs-extra": "^5.0.0",
+    "handlebars": "^4.0.11",
     "puppeteer": "^1.2.0"
   }
 }

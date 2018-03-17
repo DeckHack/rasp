@@ -17,6 +17,7 @@
     "path": "./"
   },
   "output_path": "./output/",
+  "template_path": "./resources/",
   "output_url": "http://example.com/",
   "data_path": "./"
 }
