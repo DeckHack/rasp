@@ -12,10 +12,6 @@
     "access_token": "...",
     "access_token_secret": "..."
   },
-  "assets": {
-    "enabled": true,
-    "path": "./"
-  },
   "asset_path": "./assets/",
   "output_path": "./output/",
   "template_path": "./resources/",
