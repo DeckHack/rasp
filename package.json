@@ -1,6 +1,6 @@
 {
   "name": "rasp",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Toolchain for work with TweetDeck",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pixeldesu/rasp.git"
+    "url": "git+https://github.com/DeckHack/rasp.git"
   },
   "keywords": [
     "headless",
@@ -22,9 +22,9 @@
   "author": "Andreas Nedbal <andy@pixelde.su>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/pixeldesu/rasp/issues"
+    "url": "https://github.com/DeckHack/rasp/issues"
   },
-  "homepage": "https://github.com/pixeldesu/rasp#readme",
+  "homepage": "https://github.com/DeckHack/rasp#readme",
   "dependencies": {
     "deep-diff": "^0.3.8",
     "diff": "^3.5.0",
